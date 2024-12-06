@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         IMAGE_NAME = 'my-web-app'
-        CONTAINER_PORT = '8080'
+        CONTAINER_PORT = '8083'
         IMAGE_PORT = '80'
     }
 
